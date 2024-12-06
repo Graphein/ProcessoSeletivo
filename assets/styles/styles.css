@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: LufgaRegular;
-  src: url('../fonts/lufga-regular.otf'); /* 2. Alterar Imagem: */
+  src: url('../fonts/lufga-regular.otf'); 
   font-display: swap;
 }
 :focus {
@@ -117,7 +117,7 @@ nav {
 .hero-content {
   justify-content: center;
   text-align: center;
-  background-image: url('../images/Programação.avif');
+  background-image: url('../images/testar.jpg'); /* 2. Alterar Imagem: */
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
