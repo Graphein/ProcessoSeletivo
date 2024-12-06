@@ -515,7 +515,10 @@ footer .footer-content .footer-links .footer-subscribe:hover {
   font-weight: bold;
   color: var(--purple-light);
 }
-
+.depoimento:hover {
+  border-color: #007bff; /* Azul para o hover */
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3); /* Sombras azuladas */
+}
 @media (max-width: 768px) {
   .depoimentos-container {
     flex-direction: row;
